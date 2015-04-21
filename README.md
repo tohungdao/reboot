@@ -1,0 +1,2 @@
+# reboot
+blind reboot
